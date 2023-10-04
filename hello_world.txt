@@ -1,1 +1,2 @@
 Surprisingly challenging, but fun.
+Now to test the commit message through VS Code
